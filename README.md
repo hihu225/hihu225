@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+### 🌱 About Me
 
 - **B.Tech in ECE** | 3rd Year Student  
 - Building: `Geeta GPT` – a chatbot delivering Bhagavad Gita wisdom  
@@ -14,7 +14,7 @@
 
 ---
 
-### Projects
+### 🚀 Projects
 
 - **Geeta GPT**: React + Node.js chatbot for Bhagavad Gita  
 - **Air Quality Detector**: Arduino-based sensor system  
@@ -23,7 +23,7 @@
 
 ---
 
-### Skills
+### 🛠️ Skills
 
 ```text
 Languages:      C/C++, Python, JavaScript, MATLAB
