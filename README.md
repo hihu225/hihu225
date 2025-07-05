@@ -247,8 +247,9 @@ const currentStatus = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=⭐%20Star%20my%20repos%20if%20you%20dare;Or%20don%27t,%20I%27m%20not%20your%20boss;But%20seriously,%20please%20do%20%3A)" alt="Call to action" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=Star+my+repos+if+you+dare;Or+don't%2C+I'm+not+your+boss;But+seriously%2C+please+do" alt="Call to action" />
 </div>
+
 
 
 ---
