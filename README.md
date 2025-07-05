@@ -222,8 +222,9 @@ const currentStatus = {
 
 ### 📜 Today's Deep Thought:
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=If+debugging+removes+bugs...;Then+coding+must+be+bug+manufacturing.;If+I+can+fix+your+code+and+your+love+life...;Why+can't+I+commit+to+my+own+pull+requests%3F+🤷‍♂️" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=If+debugging+removes+bugs...;Then+coding+must+be+bug+manufacturing.;If+I+can+fix+your+code+and+your+love+life...;Why+can%27t+I+commit+to+my+own+pull+requests%3F+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F" alt="Philosophy" />
 </div>
+
 
 
 ---
@@ -246,8 +247,9 @@ const currentStatus = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=⭐+Star+my+repos+if+you+dare;Or+don't%2C+I'm+not+your+boss;But+seriously%2C+please+do+%3A)" alt="Call to action" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=⭐%20Star%20my%20repos%20if%20you%20dare;Or%20don%27t,%20I%27m%20not%20your%20boss;But%20seriously,%20please%20do%20%3A)" alt="Call to action" />
 </div>
+
 
 ---
 
