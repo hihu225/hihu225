@@ -7,7 +7,7 @@
 
 ### 🌱 About Me
 
-- **B.Tech in ECE** | 3rd Year Student  
+- **B.Tech in ECE** | 4th Year Student  
 - Building: `Geeta GPT` – a chatbot delivering Bhagavad Gita wisdom  
 - Passionate about **embedded systems**, **wireless communication**, and **AI**  
 - I believe in the power of **code**, **creativity**, and **consistency**
