@@ -130,7 +130,6 @@ const himanshu = {
 </div>
 
 ---
-
 ## 🎵 Coding Playlist
 
 Listen to my favorite coding tracks on Spotify — helps me focus and flow while coding!
@@ -139,10 +138,13 @@ Listen to my favorite coding tracks on Spotify — helps me focus and flow while
 
 > 🎧 [Click to listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
 
----
-
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1E8Nvdd0ZKC91M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" 
+          src="https://open.spotify.com/embed/playlist/37i9dQZF1E8Nvdd0ZKC91M?utm_source=generator" 
+          width="100%" height="152" frameborder="0" 
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+          loading="lazy">
+  </iframe>
 </div>
 
 
