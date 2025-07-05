@@ -18,6 +18,7 @@
 
 <img align="centre" alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <br>
+--
 ### 🔮 My Unofficial Credentials:
 - **Relationship Counselor** *(Self-taught through Netflix rom-coms)*
 - **Philosophy Major** *(YouTube University, Dean's List)*
