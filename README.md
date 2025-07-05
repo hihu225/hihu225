@@ -16,12 +16,8 @@
 
 ## 💭 The Wisdom Dispensary (Certified Life Coach™)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=💕+Relationship+Debugger+Extraordinaire;🧠+Philosophy+PhD+(Pending...+Forever);🎭+Dispensing+Life+Advice+Since+2021;⚡+Warning%3A+May+Cause+Existential+Crisis" alt="Wisdom" />
-</div>
-
-<img align="right" alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<img align="centre" alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br>
 ### 🔮 My Unofficial Credentials:
 - **Relationship Counselor** *(Self-taught through Netflix rom-coms)*
 - **Philosophy Major** *(YouTube University, Dean's List)*
@@ -55,8 +51,7 @@ const lifeAdvice = {
 ---
 
 ## 🎭 The Plot Twist
-
-<img align="right" alt="Mysterious Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Hacking in Progress" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 // WARNING: This developer may contain traces of sarcasm and unsolicited life advice
@@ -73,27 +68,20 @@ const mysteriousMe = {
 };
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" alt="Mysterious typing" />
-</div>
-
 ---
 
 ## 🔮 Current Mysteries I'm Solving
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🕉️+Building+Geeta+GPT...;Because+even+AI+needs+spiritual+guidance;💸+Smart+Spending+App;Teaching+money+to+behave+itself;🤖+Career+Match+Analyzer;Playing+cupid+for+humans+and+careers" alt="Projects" />
-</div>
 
 | 🎯 Project | 🤔 What's It About? | 🛠️ How I Tortured Myself | 🔗 Proof |
-|------------|-------------------|------------------------|----------|
-| 🕉️ **Geeta GPT** | *Ancient wisdom meets modern stupidity* | React, Node.js, Express | 🚀 Coming Soon™ |
+|------------|---------------------|---------------------------|----------|
+| 🕉️ **Geeta GPT** | *Ancient wisdom meets modern stupidity* | React, Node.js, Express | [🌐 Live](https://geeta-gpt14.vercel.app) / [GitHub](https://github.com/hihu225/Geeta) |
 | 💰 **Smart Spending** | *Because I'm bad with money, so I built an app* | React, Node.js, MongoDB, Docker | [GitHub](https://github.com/hihu225/smart-spending) |
 | 💬 **Smart Session Chat** | *Chat app that's smarter than its creator* | JavaScript, Real-time Magic | [GitHub](https://github.com/hihu225/smart-session-chat) |
 | 🎯 **Career Match Analyzer Pro** | *AI that's better at life advice than me* | Python, ML, Existential Dread | [GitHub](https://github.com/hihu225/career-match-analyzer-pro) |
-| 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors, Pure Anxiety | 🛠️ In Progress |
-| 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | 📊 |
-| ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA, Insomnia | ⚡ |
+| 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors, Pure Anxiety | 🛠️ Submitted |
+| 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | 📊 In Progress |
+| ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA, Insomnia | ⚡ Complete |
 
 ---
 
@@ -232,8 +220,9 @@ const currentStatus = {
 
 ### 📜 Today's Deep Thought:
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=If+debugging+is+the+process+of+removing+bugs...;Then+programming+must+be+the+process+of+adding+them;Similarly%2C+if+I+can+debug+your+relationship...;Why+can't+I+debug+my+own+life%3F+🤔" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=If+debugging+removes+bugs...;Then+coding+must+be+bug+manufacturing.;If+I+can+fix+your+code+and+your+love+life...;Why+can't+I+commit+to+my+own+pull+requests%3F+🤷‍♂️" alt="Philosophy" />
 </div>
+
 
 ---
 
@@ -242,9 +231,11 @@ const currentStatus = {
 </div>
 
 <div align="center">
-  <h3>🌟 "In a world full of bugs, be the feature. In a world full of broken hearts, be the debugger." 🌟</h3>
-  <p><i>- Himanshu Agrawal (definitely while giving relationship advice at 3 AM)</i></p>
+  <h3>✨ "The world becomes better when we think a little less about ourselves and a little more about one another." ✨</h3>
+  <p><i>- Himanshu Agrawal</i></p>
 </div>
+
+---
 
 ---
 
