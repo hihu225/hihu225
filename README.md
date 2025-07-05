@@ -134,18 +134,9 @@ const himanshu = {
 
 Listen to my favorite coding tracks on Spotify — helps me focus and flow while coding!
 
-[![My Coding Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31k6erawh6v6vazefz6pqx2wlbsy&unique=true)](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
+[![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
 
 > 🎧 [Click to listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
-
-<div align="center">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/playlist/37i9dQZF1E8Nvdd0ZKC91M?utm_source=generator" 
-          width="100%" height="152" frameborder="0" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
-</div>
 
 
 <div align="center">
