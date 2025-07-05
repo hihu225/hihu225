@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Relationships%20Fixed-404-pink?style=for-the-badge" alt="Relationships" />
   <img src="https://img.shields.io/badge/Philosophical%20Rants-Daily-purple?style=for-the-badge" alt="Philosophy" />
 </div>
----
+
 
 ## 💭 The Wisdom Dispensary (Certified Life Coach™)
 
@@ -22,26 +22,26 @@
 
 ### 🔮 My Unofficial Credentials
 
-- **Relationship Counselor** *(Self-taught through Netflix rom-coms)*
-- **Philosophy Major** *(YouTube University, Dean's List)*
+- **Relationship Counselor** *(Self-taught through other's mistakes and my failures 🥺)*
+- **Philosophy Major** *(Books)*
 - **Life Coach** *(Certified by my own existential dread)*
-- **Deep Thinker** *(Overthinking specialist since childhood)*
+- **Deep Thinker** *(Overthinking specialist since teenage)*
 
 ```javascript
 const lifeAdvice = {
   relationshipStatus: "It's complicated... like my codebase",
   advisoryServices: [
     "Why your girlfriend left you (spoiler: it's not the code)",
-    "How to debug a broken heart (try turning it off and on again)",
+    "How to fix a broken heart (try turning it off and on again)",
     "Philosophical debates about whether AI will steal your job or your girl first",
-    "Deep conversations that will make you question your life choices"
+    "Deep conversations that will make you question your life choices or regret it basically"
   ],
   philosophy: {
-    onLove: "Love is like a promise - easy to make, hard to keep, impossible to debug",
-    onLife: "Life is just a series of nested if-else statements with no proper error handling",
+    onLove: "Love is like a promise and promises are made to be broken",
+    onLife: "Life stuck? Let's discuss, how innocent you are",
     onSuccess: "Success is 1% inspiration, 99% Stack Overflow, and 100% bad at math"
   },
-  disclaimer: "No guarantee that my advice won't make your problems worse"
+  disclaimer: "No guarantee that my advice won't make your problems worse, should try atleast"
 };
 ```
 ### 🎪 Services I Totally Don't Offer (But Actually Do):
