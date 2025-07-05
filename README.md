@@ -128,13 +128,16 @@ const himanshu = {
 <div align="center">
   <img src="https://tse1.mm.bing.net/th/id/OIP.fVP-ms-fM7AmmuEmKs8sGwHaEg?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Random Dev Quote" />
 </div>
+--
+<div align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="100" alt="Spotify Logo" />
+  </a>
+</div>
 
----
 ## 🎵 Coding Playlist
 
 Listen to my favorite coding tracks on Spotify — helps me focus and flow while coding!
-
-[![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
 
 > 🎧 [Click to listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
 
