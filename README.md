@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=💕+Relationship+Debugger+Extraordinaire;🧠+Philosophy+PhD+(Pending...+Forever);🎭+Dispensing+Life+Advice+Since+2021;⚡+Warning%3A+May+Cause+Existential+Crisis" alt="Wisdom" />
 </div>
 
-<img align="right" alt="Thinking Philosopher" width="300" src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif">
+<img align="right" alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🔮 My Unofficial Credentials:
 - **Relationship Counselor** *(Self-taught through Netflix rom-coms)*
@@ -52,15 +52,11 @@ const lifeAdvice = {
 - **Deep Philosophical Discussions** - *"Let's talk about whether semicolons have feelings"*
 - **Life Optimization** - *"Apply Agile methodology to your dating life"*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="200" alt="Deep Thinking" />
-</div>
-
 ---
 
 ## 🎭 The Plot Twist
 
-<img align="right" alt="Mysterious Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Mysterious Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 // WARNING: This developer may contain traces of sarcasm and unsolicited life advice
@@ -218,10 +214,6 @@ const currentStatus = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="200" alt="Headphones" />
-</div>
-
 ---
 
 ## 🐍 Watch My Contributions Get Devoured
@@ -236,10 +228,6 @@ const currentStatus = {
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=900&lines=Sometimes+I+write+code%2C+sometimes+I+fix+hearts;Love+is+like+a+recursive+function+-+beautiful+but+dangerous;Your+relationship+status%3A+It's+complicated+(like+my+codebase);Philosophy+is+just+debugging+life+without+Stack+Overflow;I+give+better+advice+than+I+follow" alt="Wisdom" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Thinking" />
 </div>
 
 ### 📜 Today's Deep Thought:
@@ -269,10 +257,6 @@ const currentStatus = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" alt="Goodbye" />
-</div>
 
 <!-- Easter egg for the curious ones -->
 <!-- 
