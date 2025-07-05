@@ -82,22 +82,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hihu225&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hihu225&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
@@ -142,31 +126,38 @@ const himanshu = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.fVP-ms-fM7AmmuEmKs8sGwHaEg?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Random Dev Quote" />
 </div>
 
 ---
 
 ## 🎵 Coding Playlist
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6erawh6v6vazefz6pqx2wlbsy&unique=true" alt="Spotify" />
-</div>
+Listen to my favorite coding tracks on Spotify — helps me focus and flow while coding!
+
+[![My Coding Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31k6erawh6v6vazefz6pqx2wlbsy&unique=true)](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
+
+> 🎧 [Click to listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1E8Nvdd0ZKC91M)
 
 ---
+
+<div align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1E8Nvdd0ZKC91M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
-
 <div align="center">
-  <h3>✨ "Code is poetry, and every bug is a metaphor waiting to be understood" ✨</h3>
+  <h3>✨ "The world becomes better when we think a little less about ourselves and a little more about one another." ✨</h3>
   <p><i>- Himanshu Agrawal</i></p>
 </div>
 
 ---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
