@@ -11,15 +11,17 @@
   <img src="https://img.shields.io/badge/Relationships%20Fixed-404-pink?style=for-the-badge" alt="Relationships" />
   <img src="https://img.shields.io/badge/Philosophical%20Rants-Daily-purple?style=for-the-badge" alt="Philosophy" />
 </div>
-
 ---
 
 ## 💭 The Wisdom Dispensary (Certified Life Coach™)
 
-<img align="centre" alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
 <br>
----
-### 🔮 My Unofficial Credentials:
+
+### 🔮 My Unofficial Credentials
+
 - **Relationship Counselor** *(Self-taught through Netflix rom-coms)*
 - **Philosophy Major** *(YouTube University, Dean's List)*
 - **Life Coach** *(Certified by my own existential dread)*
@@ -42,7 +44,6 @@ const lifeAdvice = {
   disclaimer: "No guarantee that my advice won't make your problems worse"
 };
 ```
-
 ### 🎪 Services I Totally Don't Offer (But Actually Do):
 - **Relationship Debugging** - *"Have you tried turning your communication off and on again?"*
 - **Existential Crisis Management** - *"Yes, we're all just cosmic accidents, but at least you can code"*
