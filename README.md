@@ -77,7 +77,7 @@ const mysteriousMe = {
 
 | 🎯 Project | 🤔 What's It About? | 🛠️ How I Tortured Myself | 🔗 Proof |
 |------------|---------------------|---------------------------|----------|
-| 🕉️ **Geeta GPT** | *Ancient wisdom meets modern stupidity* | React, Node.js, Express | [🌐 Live](https://geeta-gpt14.vercel.app) / [GitHub](https://github.com/hihu225/Geeta) |
+| 🕉️ **Geeta GPT** | *Ancient wisdom meets modern creativity* | React, Node.js, Express | [🌐 Live](https://geeta-gpt14.vercel.app) / [GitHub](https://github.com/hihu225/Geeta) |
 | 🧑‍🏫 **Student-Teacher Platform** | *Full-stack platform connecting minds and assignments* | React, Node.js, Express, MongoDB, Socket.IO, Tailwind | [GitHub](https://github.com/hihu225/stu-teacher) |
 | 🏥 **Hospi** | *Hospital management because healthcare needs debugging too* | React, Node.js, Express, MongoDB, Tailwind | [GitHub](https://github.com/hihu225/Hospi) |
 | 💰 **Smart Spending** | *Because I'm bad with money, so I built an app* | React, Node.js, MongoDB, Docker | [GitHub](https://github.com/hihu225/smart-spending) |
