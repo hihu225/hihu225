@@ -78,9 +78,14 @@ const mysteriousMe = {
 | 🎯 Project | 🤔 What's It About? | 🛠️ How I Tortured Myself | 🔗 Proof |
 |------------|---------------------|---------------------------|----------|
 | 🕉️ **Geeta GPT** | *Ancient wisdom meets modern stupidity* | React, Node.js, Express | [🌐 Live](https://geeta-gpt14.vercel.app) / [GitHub](https://github.com/hihu225/Geeta) |
+| 🧑‍🏫 **Student-Teacher Platform** | *Full-stack platform connecting minds and assignments* | React, Node.js, Express, MongoDB, Socket.IO, Tailwind | [GitHub](https://github.com/hihu225/stu-teacher) |
+| 🏥 **Hospi** | *Hospital management because healthcare needs debugging too* | React, Node.js, Express, MongoDB, Tailwind | [GitHub](https://github.com/hihu225/Hospi) |
 | 💰 **Smart Spending** | *Because I'm bad with money, so I built an app* | React, Node.js, MongoDB, Docker | [GitHub](https://github.com/hihu225/smart-spending) |
 | 💬 **Smart Session Chat** | *Chat app that's smarter than its creator* | JavaScript, Real-time Magic | [GitHub](https://github.com/hihu225/smart-session-chat) |
 | 🎯 **Career Match Analyzer Pro** | *AI that's better at life advice than me* | Python, ML, Existential Dread | [GitHub](https://github.com/hihu225/career-match-analyzer-pro) |
+| ⏳ **Countdown Timer** | *Track your life's deadlines (literally)* | React, Tailwind CSS | [GitHub](https://github.com/hihu225/Countdown) |
+| ✅ **ToDo App** | *Task management for people who procrastinate making task managers* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/todo) |
+| ❌ **Tic-Tac-Toe** | *Proving I can beat you at simple games* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/tic-tac-toe) |
 | 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors, Pure Anxiety | 🛠️ Submitted |
 | 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | 📊 In Progress |
 | ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA, Insomnia | ⚡ Complete |
@@ -109,6 +114,9 @@ const mysteriousMe = {
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks" />
 <img src="https://img.shields.io/badge/Proteus-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Keil-red?style=for-the-badge" />
+
+### 🌐 Real-time Communication
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 
 </div>
 
