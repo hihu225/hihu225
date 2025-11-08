@@ -38,21 +38,16 @@ const himanshu = {
   shortBio: "ECE student • Builder of conversations, not just code • Exploring how logic and emotion can co-exist in design.",
   location: "India — somewhere between a compiler and a coffee cup",
   education: "B.Tech, Electronics & Communication (4th year)",
-
   dedication: "I try new things boldly. I’d rather break something real than dream something safe.",
-
   currentStatus: "Wandering through different domains — collecting dots before connecting them. No public project yet, but the next reveal’s meant to surprise.",
-
   strengths: [
     "Can make you question your life decisions in a single conversation",
     "Hooks a chat so well, you forget to escape",
   ],
-
   values: [
     "Depth over noise",
     "Courage to try over comfort to repeat",
   ],
-
   closing: "Keep experimenting, keep feeling — that’s how code becomes art."
 };
 
