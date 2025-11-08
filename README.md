@@ -33,18 +33,29 @@
 <img align="right" alt="Hacking in Progress" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
-// WARNING: This developer may contain traces of sarcasm and unsolicited life advice
-const mysteriousMe = {
-  realName: "Himanshu Agrawal",
-  alias: ["The Bug Whisperer", "Captain Semicolon", "Lord of the Loops", "Dr. Love (self-proclaimed)", "The Philosophy Bro"],
-  currentLocation: "Somewhere between Stack Overflow and existential crisis",
-  education: "B.Tech ECE (4th Year) - Yes, I actually study hardware but code software 🤷‍♂️",
-  superpower: "Turning coffee into code since 2021",
-  sidehustle: "Fixing people's relationships better than I fix my bugs",
-  weakness: "Merge conflicts, Monday mornings, and people who don't take my advice",
-  philosophy: "Code like nobody's watching, debug like everyone is judging, love like you've never been hurt by a segmentation fault",
-  expertise: ["Debugging hearts", "Optimizing relationships", "Philosophical rants at 3 AM"]
+const himanshu = {
+  name: "Himanshu Agrawal",
+  shortBio: "ECE student • Builder of conversations, not just code • Exploring how logic and emotion can co-exist in design.",
+  location: "India — somewhere between a compiler and a coffee cup",
+  education: "B.Tech, Electronics & Communication (4th year)",
+
+  dedication: "I try new things boldly. I’d rather break something real than dream something safe.",
+
+  currentStatus: "Wandering through different domains — collecting dots before connecting them. No public project yet, but the next reveal’s meant to surprise.",
+
+  strengths: [
+    "Can make you question your life decisions in a single conversation",
+    "Hooks a chat so well, you forget to escape",
+  ],
+
+  values: [
+    "Depth over noise",
+    "Courage to try over comfort to repeat",
+  ],
+
+  closing: "Keep experimenting, keep feeling — that’s how code becomes art."
 };
+
 ```
 
 ---
@@ -64,7 +75,7 @@ const mysteriousMe = {
 | ✅ **ToDo App** | *Task management for people who procrastinate making task managers* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/todo) |
 | ❌ **Tic-Tac-Toe** | *Proving I can beat you at simple games* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/tic-tac-toe) |
 | 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors, Pure Anxiety | 🛠️ Submitted |
-| 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | 📊 In Progress |
+| 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | ⚡ Complete |
 | ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA, Insomnia | ⚡ Complete |
 
 ---
