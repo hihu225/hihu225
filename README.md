@@ -13,7 +13,7 @@
 </div>
 
 
-## 💭 The Wisdom Dispensary (Certified Life Coach™)
+## 💭 Exploring domains, connecting dots later — code is just the current language I speak.
 
 <div align="center">
   <img alt="Thinking Philosopher" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
