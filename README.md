@@ -29,7 +29,7 @@
 
 ---
 
-## 🎭 The Plot Twist
+## 🫣 About me
 <img align="right" alt="Hacking in Progress" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
@@ -58,20 +58,20 @@ const himanshu = {
 ## 🔮 Current Mysteries I'm Solving
 
 
-| 🎯 Project | 🤔 What's It About? | 🛠️ How I Tortured Myself | 🔗 Proof |
+| 🎯 Project | 🤔 What's It About? | 🛠️ Tech stack used | 🔗 Proof |
 |------------|---------------------|---------------------------|----------|
 | 🕉️ **Geeta GPT** | *Ancient wisdom meets modern creativity* | React, Node.js, Express | [🌐 Live](https://geeta-gpt14.vercel.app) / [GitHub](https://github.com/hihu225/Geeta) |
 | 🧑‍🏫 **Student-Teacher Platform** | *Full-stack platform connecting minds and assignments* | React, Node.js, Express, MongoDB, Socket.IO, Tailwind | [GitHub](https://github.com/hihu225/stu-teacher) |
 | 🏥 **Hospi** | *Hospital management because healthcare needs debugging too* | React, Node.js, Express, MongoDB, Tailwind | [GitHub](https://github.com/hihu225/Hospi) |
 | 💰 **Smart Spending** | *Because I'm bad with money, so I built an app* | React, Node.js, MongoDB, Docker | [GitHub](https://github.com/hihu225/smart-spending) |
-| 💬 **Smart Session Chat** | *Chat app that's smarter than its creator* | JavaScript, Real-time Magic | [GitHub](https://github.com/hihu225/smart-session-chat) |
-| 🎯 **Career Match Analyzer Pro** | *AI that's better at life advice than me* | Python, ML, Existential Dread | [GitHub](https://github.com/hihu225/career-match-analyzer-pro) |
+| 💬 **Smart Session Chat** | *Chat app that's smarter than its creator* | JavaScript, | [GitHub](https://github.com/hihu225/smart-session-chat) |
+| 🎯 **Career Match Analyzer Pro** | *AI that's better at life advice than me* | Python, ML| [GitHub](https://github.com/hihu225/career-match-analyzer-pro) |
 | ⏳ **Countdown Timer** | *Track your life's deadlines (literally)* | React, Tailwind CSS | [GitHub](https://github.com/hihu225/Countdown) |
 | ✅ **ToDo App** | *Task management for people who procrastinate making task managers* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/todo) |
 | ❌ **Tic-Tac-Toe** | *Proving I can beat you at simple games* | HTML, CSS, JavaScript | [GitHub](https://github.com/hihu225/tic-tac-toe) |
-| 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors, Pure Anxiety | 🛠️ Submitted |
-| 🌱 **Vegetation Monitoring** | *Watching plants grow while my patience doesn't* | MATLAB, Image Processing | ⚡ Complete |
-| ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA, Insomnia | ⚡ Complete |
+| 🌬️ **Air Quality Detector** | *Monitoring air quality while my code quality suffers* | Arduino, Sensors| 🛠️ Submitted |
+| 🌱 **Vegetation Monitoring** | *Saving environment from the root* | MATLAB, Image Processing | ⚡ Complete |
+| ⚡ **Booth Multiplier** | *Multiplying numbers faster than my problems* | Verilog, FPGA| ⚡ Complete |
 
 ---
 
@@ -133,26 +133,18 @@ const himanshu = {
 const currentStatus = {
   🧠 brain: "Running on caffeine.js v∞ with philosophy.dll loaded",
   📚 learning: ["How to adult", "Why CSS breaks for no reason", "The meaning of life", "Why people don't take my advice"],
-  💭 philosophizing: ["Is debugging just applied philosophy?", "Do semicolons dream of electric sheep?", "Why do people ask for advice they won't take?"],
+  💭 philosophizing: ["Is debugging just applied philosophy?", "Why do people ask for advice they won't take?"],
   🎯 goals: [
     "Build something people actually use",
     "Understand why my code works",
     "Convince people I know what I'm doing",
-    "Start a podcast called 'Debugging Hearts & Minds'"
   ],
-  💕 relationshipAdvice: {
-    success_rate: "Higher than my code's success rate",
-    testimonials: ["He told me to git commit to the relationship" - Anonymous],
-    methodology: "Treat relationships like code - lots of testing, proper documentation, and regular debugging"
-  },
   🔮 secretProjects: [
     "███████ - Top Secret",
     "Project X - Coming Soon",
     "Something that will change the world (probably not)"
   ],
-  🎭 personalityType: "INTJ with a side of chaos and unsolicited life advice",
-  🌟 funFact: "I write poetry about debugging errors AND give better relationship advice than most therapists",
-  🔥 hottake: "Your relationship problems are just poorly written algorithms"
+  🌟 funFact: "If I write for you then you are really close to me."
 };
 ```
 
@@ -205,16 +197,13 @@ const currentStatus = {
 
 ---
 
-## 🎪 Random Wisdom Generator
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=900&lines=Sometimes+I+write+code%2C+sometimes+I+fix+hearts;Love+is+like+a+recursive+function+-+beautiful+but+dangerous;Your+relationship+status%3A+It's+complicated+(like+my+codebase);Philosophy+is+just+debugging+life+without+Stack+Overflow;I+give+better+advice+than+I+follow" alt="Wisdom" />
-</div>
 
 ### 📜 Today's Deep Thought:
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=If+debugging+removes+bugs...;Then+coding+must+be+bug+manufacturing.;If+I+can+fix+your+code+and+your+love+life...;Why+can%27t+I+commit+to+my+own+pull+requests%3F+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=3000&color=FF1493&center=true&vCenter=true&width=800&lines=You+don't+find+meaning+by+waiting.;You+build+it+through+repetition,+reflection,+and+bad+coffee.;Every+bug+you+fix+in+code+teaches+you+something+about+yourself." alt="Deep Thought" />
 </div>
+
 
 
 
@@ -234,7 +223,7 @@ const currentStatus = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting%20My%20Digital%20Lair&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting%20Keep%20Pushing&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div>
 
 <div align="center">
