@@ -144,7 +144,7 @@ const currentStatus = {
     "Project X - Coming Soon",
     "Something that will change the world (probably not)"
   ],
-  🌟 funFact: "If I write for you then you are really close to me."
+  🌟 funFact: "If I write for you, you are really close to me."
 };
 ```
 
@@ -223,7 +223,7 @@ const currentStatus = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting%20Keep%20Pushing&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting%20,Keep%20Pushing&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div>
 
 <div align="center">
