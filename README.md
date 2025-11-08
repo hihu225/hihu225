@@ -20,30 +20,7 @@
 </div>
 <br>
 
-### 🔮 My Unofficial Credentials
 
-- **Relationship Counselor** *(Self-taught through other's mistakes and my failures 🥺)*
-- **Philosophy Major** *(Books)*
-- **Life Coach** *(Certified by my own existential dread)*
-- **Deep Thinker** *(Overthinking specialist since teenage)*
-
-```javascript
-const lifeAdvice = {
-  relationshipStatus: "It's complicated... like my codebase",
-  advisoryServices: [
-    "Why your girlfriend left you (spoiler: it's not the code)",
-    "How to fix a broken heart (try turning it off and on again)",
-    "Philosophical debates about whether AI will steal your job or your girl first",
-    "Deep conversations that will make you question your life choices or regret it basically"
-  ],
-  philosophy: {
-    onLove: "Love is like a promise and promises are made to be broken",
-    onLife: "Life stuck? Let's discuss, how innocent you are",
-    onSuccess: "Success is 1% inspiration, 99% Stack Overflow, and 100% bad at math"
-  },
-  disclaimer: "No guarantee that my advice won't make your problems worse, should try atleast"
-};
-```
 ### 🎪 Services I Totally Don't Offer (But Actually Do):
 - **Relationship Debugging** - *"Have you tried turning your communication off and on again?"*
 - **Existential Crisis Management** - *"Yes, we're all just cosmic accidents, but at least you can code"*
