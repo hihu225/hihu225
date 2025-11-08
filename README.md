@@ -20,13 +20,6 @@
 </div>
 <br>
 
-
-### 🎪 Services I Totally Don't Offer (But Actually Do):
-- **Relationship Debugging** - *"Have you tried turning your communication off and on again?"*
-- **Existential Crisis Management** - *"Yes, we're all just cosmic accidents, but at least you can code"*
-- **Deep Philosophical Discussions** - *"Let's talk about whether semicolons have feelings"*
-- **Life Optimization** - *"Apply Agile methodology to your dating life"*
-
 ---
 
 ## 🫣 About me
